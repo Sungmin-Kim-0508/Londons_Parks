@@ -23,7 +23,7 @@ yarn global add expo-cli
 yarn start
 ```
 
-How to the app on the device
+## How to the app on the device
 1. Install Expo app on your device.
 2. If Expo app is installed, sign up and sign in on Expo.
 3. For those who use Android, open Expo app and scan QR code. Make sure your device should be connected to your computer.

@@ -1,5 +1,6 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import InputText from './components/atoms/Input';
 import Typography from './components/atoms/Typography';
 
 export default function App() {

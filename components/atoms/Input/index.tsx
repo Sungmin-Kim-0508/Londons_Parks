@@ -1,11 +1,19 @@
 import React from "react";
+import * as Sc from "./style";
 
 function Input(): React.ReactElement {
   return (
-    <div>
-      <p>Input</p>
-    </div>
-  );
+    <>
+    <Sc.Input />
+    <Sc.Typography />
+    </>
+  )
 }
 
 export default Input;
+
+
+
+
+
+
